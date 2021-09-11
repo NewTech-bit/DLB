@@ -7,8 +7,10 @@ Based on a Kaggle Dataset, some different types of basic Sequential Neural Netwo
 - model with RNN architecture
 
 Group 3:
-Kevin Bollier
-Ricky Roy Bruderer
-Xiying Liu
+Kevin Bollier, 
+Ricky Roy Bruderer, 
+Xiying Liu, 
 Andreas Kläusli
+
+Github: https://github.com/NewTech-bit/DLB/
  
