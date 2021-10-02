@@ -8,7 +8,7 @@ There have been two tasks carried out:
 - model with dropout layer
 - model with RNN architecture
 
-2. A neural network is built for detecting cats and dogs:
+2. A neural network have been built for detecting images of cats and dogs:
 - DLB_FinalDataChallenge_vFinal
 
 Group 3:
